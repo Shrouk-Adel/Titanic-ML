@@ -61,16 +61,7 @@ The final model achieved an accuracy score of **78%** on the test dataset.
 ### Prerequisites
 - Python 3.7+
 - Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Shrouk-Adel/titanic-ml-project.git
-   ```
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+ 
 ## Results
 - Achieved a test accuracy score of **78%**.
  
